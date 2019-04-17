@@ -14,10 +14,10 @@ installed, I recommend using the [rustup](https://www.rustup.rs/) Rust version m
 
 ## dependencies
 
-- [pencil]: A micro web framework for Rust, inspired by Python's flask.
+- [simple-server]: A small web framework for Rust.
 - [motivations]: A collection of motivating messages
 - [pick-one]: Small utility to pick one item out of an array at random
 
-[pencil]: https://crates.io/crates/pencil/
+[simple-server]: https://crates.io/crates/simple-server/
 [motivations]: https://crates.io/crates/motivations
 [pick-one]: https://crates.io/crates/pick-one
